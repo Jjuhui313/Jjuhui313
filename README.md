@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0008ff,100:ff05ea&height=180&text=Hi!%20I'm%20Juhui&animation=twinkling&fontColor=ffffff&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 어서와요! 주니어 백엔드 개발자 김주희입니다. </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 반갑습니다! 주니어 백엔드 개발자 김주희입니다. </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> Spring과 Java, JPA를 사용합니다.</li><li> 목표는 풀스택 개발자입니다.</li><li> 프론트에도 관심이 많아 열심히 공부중입니다. </div> 
     </div>
     <div style="text-align: left;">
